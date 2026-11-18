@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "Banner_181126_1949_UW2",
+    "in_stock": true,
+    "name": "1st provided",
+    "type": "Banner",
+    "images": "https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/images/products/img_1795009776638_136.webp"
+  }
+]
