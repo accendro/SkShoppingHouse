@@ -25,24 +25,6 @@
     "delivery_days": "3-5"
   },
   {
-    "id": "COMC_201126_1602_PB6",
-    "in_stock": true,
-    "name": "Combo SWEATSHIRT + PANT",
-    "price": 1299,
-    "original_price": 1350,
-    "sold": "",
-    "show_sold": "FALSE",
-    "type": "Men",
-    "sub_type": "Combo",
-    "tags": "",
-    "keywords": "",
-    "images": "https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168855579_678.webp,https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168962997_794.webp,https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168968531_280.webp,https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168999867_55.webp,https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168970769_686.webp,https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795169002361_760.webp",
-    "description": "❄️ **প্রিমিয়াম উইন্টার Hoodie &amp; Sweatshirt Collection**&nbsp;\n\nশীতের দিনে স্টাইল ও আরামের সমন্বয়ে নিয়ে এলাম আমাদের প্রিমিয়াম উইন্টার কালেকশন। ৩৮০–৪২০ GSM-এর ঘন ফেব্রিক, আকর্ষণীয় গ্রাফিক প্রিন্ট এবং প্রিমিয়াম ফিনিশিংয়ে প্রতিটি ডিজাইনেই পাবেন স্টাইলিশ লুক ও আরামদায়ক অনুভূতি।\n\n✨ **বৈশিষ্ট্যসমূহ:**\n\n✔ Premium Quality Fleece / Sweatshirt Fabric\n✔ GSM: ৩৮০–৪২০ (Supplier Verified)\n✔ Soft &amp; Comfortable Material\n✔ Smooth Fabric Finish\n✔ Stylish &amp; Trendy Design\n✔ Premium Ribbed Cuff &amp; Bottom\n✔ Attractive Front &amp; Back Graphic Print\n✔ Comfortable Regular Fit\n\n📏 **Available Sizes:** M, L, XL, XXL\n\n👉 শীতের স্টাইলকে দিন নতুন মাত্রা। আপনার পছন্দের ডিজাইনটি অর্ডার করুন এখনই! 🔥",
-    "colors": "Sweatshirt: Move Till Shifts|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168962997_794.webp, Warrior|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168999867_55.webp, Spiderman|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795169002361_760.webp; Pant: Black|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168968531_280.webp, Brown|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168970769_686.webp",
-    "sizes": "Sweatshirt: M, L, XL; Pant: L, XL, XXL",
-    "delivery_days": "3-5"
-  },
-  {
     "id": "COMC_201126_1605_MNF",
     "in_stock": true,
     "name": "Combo HOODIE + PANT",
@@ -58,6 +40,24 @@
     "description": "❄️ **প্রিমিয়াম উইন্টার Hoodie &amp; Sweatshirt Collection**&nbsp;\n\nশীতের দিনে স্টাইল ও আরামের সমন্বয়ে নিয়ে এলাম আমাদের প্রিমিয়াম উইন্টার কালেকশন। ৩৮০–৪২০ GSM-এর ঘন ফেব্রিক, আকর্ষণীয় গ্রাফিক প্রিন্ট এবং প্রিমিয়াম ফিনিশিংয়ে প্রতিটি ডিজাইনেই পাবেন স্টাইলিশ লুক ও আরামদায়ক অনুভূতি।\n\n✨ **বৈশিষ্ট্যসমূহ:**\n\n✔ Premium Quality Fleece / Sweatshirt Fabric\n✔ GSM: ৩৮০–৪২০ (Supplier Verified)\n✔ Soft &amp; Comfortable Material\n✔ Smooth Fabric Finish\n✔ Stylish &amp; Trendy Design\n✔ Premium Ribbed Cuff &amp; Bottom\n✔ Attractive Front &amp; Back Graphic Print\n✔ Comfortable Regular Fit\n\n📏 **Available Sizes:** M, L, XL, XXL\n\n👉 শীতের স্টাইলকে দিন নতুন মাত্রা। আপনার পছন্দের ডিজাইনটি অর্ডার করুন এখনই! 🔥",
     "colors": "Hoodie: White|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795169216324_315.webp, Black|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795169218582_310.webp, Maroon|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795169221071_327.webp, Olive|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795169223755_64.webp; Pant: Black|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795169226098_991.webp, Brown|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795169228274_277.webp",
     "sizes": "Hoodie: M, L, XL; Pant: L, XL, XXL",
+    "delivery_days": "3-5"
+  },
+  {
+    "id": "COMC_201126_1602_PB6",
+    "in_stock": true,
+    "name": "Combo SWEATSHIRT + PANT",
+    "price": 1299,
+    "original_price": 1350,
+    "sold": "",
+    "show_sold": "FALSE",
+    "type": "Men",
+    "sub_type": "Combo",
+    "tags": "",
+    "keywords": "",
+    "images": "https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168855579_678.webp,https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168962997_794.webp,https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168968531_280.webp,https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168999867_55.webp,https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168970769_686.webp,https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795169002361_760.webp",
+    "description": "❄️ **প্রিমিয়াম উইন্টার Hoodie &amp; Sweatshirt Collection**&nbsp;\n\nশীতের দিনে স্টাইল ও আরামের সমন্বয়ে নিয়ে এলাম আমাদের প্রিমিয়াম উইন্টার কালেকশন। ৩৮০–৪২০ GSM-এর ঘন ফেব্রিক, আকর্ষণীয় গ্রাফিক প্রিন্ট এবং প্রিমিয়াম ফিনিশিংয়ে প্রতিটি ডিজাইনেই পাবেন স্টাইলিশ লুক ও আরামদায়ক অনুভূতি।\n\n✨ **বৈশিষ্ট্যসমূহ:**\n\n✔ Premium Quality Fleece / Sweatshirt Fabric\n✔ GSM: ৩৮০–৪২০ (Supplier Verified)\n✔ Soft &amp; Comfortable Material\n✔ Smooth Fabric Finish\n✔ Stylish &amp; Trendy Design\n✔ Premium Ribbed Cuff &amp; Bottom\n✔ Attractive Front &amp; Back Graphic Print\n✔ Comfortable Regular Fit\n\n📏 **Available Sizes:** M, L, XL, XXL\n\n👉 শীতের স্টাইলকে দিন নতুন মাত্রা। আপনার পছন্দের ডিজাইনটি অর্ডার করুন এখনই! 🔥",
+    "colors": "Sweatshirt: Move Till Shifts|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168962997_794.webp, Warrior|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168999867_55.webp, Spiderman|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795169002361_760.webp; Pant: Black|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168968531_280.webp, Brown|https://cdn.jsdelivr.net/gh/accendro/SkShoppingHouse@main/Images/products/img_1795168970769_686.webp",
+    "sizes": "Sweatshirt: M, L, XL; Pant: L, XL, XXL",
     "delivery_days": "3-5"
   },
   {
