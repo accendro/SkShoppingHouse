@@ -321,7 +321,6 @@
     
     const now = Date.now();
     const lastFetch = localStorage.getItem(STORE_ID + TIME_KEY) || 0;
-    const lastSync = localStorage.getItem(STORE_ID + TIME_KEY_SYNC) || 0;
     const container = document.getElementById('order-container');
     const loginError = document.getElementById('login-error');
     
@@ -331,15 +330,9 @@
     const refreshIcon = document.getElementById('refresh-icon');
     if (refreshIcon) refreshIcon.classList.add('animate-spin');
     
-    // 12-Hour Cooldown Math (12 hours = 43,200,000 milliseconds)
-    const TWELVE_HOURS = 43200000;
-    
-    // We sync Steadfast IF you pressed the manual button (force), OR if 12 hours have passed
-    const shouldCheckSteadfast = force || (now - lastSync > TWELVE_HOURS);
-    
     try {
-        // Dynamically add the &sync=true ONLY if 12 hours passed or manual button clicked
-        const fetchUrl = `${API_URL}?pw=${encodeURIComponent(adminPassword)}${shouldCheckSteadfast ? '&sync=true' : ''}`;
+        // Only fetches orders from Google Sheet — ZERO Steadfast API calls
+        const fetchUrl = `${API_URL}?pw=${encodeURIComponent(adminPassword)}`;
         const res = await fetch(fetchUrl);
         const data = await res.json();
         
@@ -354,14 +347,8 @@
             allOrders = data.reverse();
             allOrders.forEach(o => { if (o.Status === 'Intake') o.Status = 'New'; });
             
-            // Save basic sheet data to memory
             localStorage.setItem(STORE_ID + CACHE_KEY, JSON.stringify(allOrders));
             localStorage.setItem(STORE_ID + TIME_KEY, now);
-            
-            // If we successfully checked Steadfast this time, reset the 12-hour clock!
-            if (shouldCheckSteadfast) {
-                localStorage.setItem(STORE_ID + TIME_KEY_SYNC, now);
-            }
             
             renderOrders();
         }
